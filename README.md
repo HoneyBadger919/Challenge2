@@ -20,8 +20,14 @@ Libraries:
 
 ## Installation Guide
 
-Clone the present repository in your computer in a directory of choice.
+Clone the present repository or download it in your computer in a directory of choice.
+
+![Cloning](public_images/clone.png)
+
+
 Create a virtual environment where you are going to install the required library to run the program. The instructions are the following:
+
+Open your Git Bash
 
 ### Create a new virtual environment with a pre-specified version of python and Anaconda
 
